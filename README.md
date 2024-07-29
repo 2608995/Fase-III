@@ -11,11 +11,11 @@ Sietema de punto de venta de una tienda de abarrotes, creado con el lenguaje de 
 ### Problema identificado
 
 * Registro manual de ventas.
-**Actualmente, las ventas se registran manualmente, lo que puede llevar a errores y perdidas de la información. 
+- Actualmente, las ventas se registran manualmente, lo que puede llevar a errores y perdidas de la información. 
 
-* Tiempo de espera. 
-_ Lo clientes frecuentemente enfrentan tiempos de espera de 5 a 10 minutos, lo que provoca impaciencia y perdida de ventas. 
+* Tiempo de espera.
+- Lo clientes frecuentemente enfrentan tiempos de espera de 5 a 10 minutos, lo que provoca impaciencia y perdida de ventas. 
 
-* Competencia. 
-_ La competencia ofrece un servicio mas rápido, atrayendo a si a clientes que buscan una mejor conveniencia. 
+* Competencia.
+- La competencia ofrece un servicio mas rápido, atrayendo a si a clientes que buscan una mejor conveniencia. 
 
