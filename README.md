@@ -20,7 +20,7 @@ Sietema de punto de venta de una tienda de abarrotes, creado con el lenguaje de 
   - La competencia ofrece un servicio mas rápido, atrayendo a si a clientes que buscan una mejor conveniencia.
 
 ### Tabla de Contenido
-https://github.com/2608995/Fase-III/tree/519d3ec3f00c383243a3a556618b517a2140671e/librerias
+[librerias](https://github.com/2608995/Fase-III/tree/519d3ec3f00c383243a3a556618b517a2140671e/librerias)
 
 
 
