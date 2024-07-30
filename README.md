@@ -48,6 +48,62 @@ Sietema de punto de venta de una tienda de abarrotes, creado con el lenguaje de 
 * [test](https://github.com/2608995/Fase-III/tree/056042a90ff9a7c393753e472d6326bbf900dfdb/test)
   - [JUnitTest](https://github.com/2608995/Fase-III/blob/056042a90ff9a7c393753e472d6326bbf900dfdb/test/NewEmptyJUnitTest.java)
 
+### Requerimientos 
+* Se debe de tener instalado en su computador:
+  - Java
+  - SQL (base de datos)
+  - Sistema JC Punto de venta
+  - Apache
+* Descargar las conexiones de base de datos MySQL.
+
+### Instalación 
+* Descargar el proyecto del repositorio
+* Descomprimir el archivo para obtener la carpeta
+* Abrir la carpeta del proyecto
+* Ejecutar el proyecto
+
+### Configuración 
+* Asegurate que el servidor tenga suficiente capacidad de procesamiento
+* Instalar MySQL y configurar el acceso remoto (si es necesario).
+* Asegura que tu IDE este configurado con tu servidor.
+* Configura la conexion a la base de datos en tu IDE para facilitar el desarrollo. 
+
+### Uso
+El sistema punto de venta, es un software de interfaz amigable, permitiendo a los empleados gestionar las ventas, el inventario y los proveedores de manera eficiente.
+* Inicio de sesion
+  - los empleados abren la aplicacion e ingresan sus credenciales en la panatalla de inicio
+  - El sistema verifica el acceso.
+* Gestion de ventas.
+ - El sistema genera recibos de venta y los almacena en la base de datos.
+ - Se registran las ventas.
+* Gestion de Inventario
+  - los empleados pueden revisar el stock que se tiene en la tienda.
+  - El sistema puede actualizar la informacion de los productos existentes.
+  - El sistema muestra alertas cuando algun producto este por agotarse.
+* Proveedores
+  - Los empleados pueden registrar nuevos proveedores y actualizar la informacion de los provedores existentes.
+  - El sistema permite consultar los datos de contacto y las ordenes de compra relacionadas con cada proveedor
+* Facturas
+  - El sistema genera facturas automaticamente. 
+
+### Conribución 
+
+* Dar click en el siguiente link https://github.com/2608995/Fase-III.git
+* Abrir el repositorio en el branch master.
+* Dar click en code.
+* Descargar la opcion en "descargar el archivo zipcode". 
+
+### Roadmap
+
+* Para asegurar la evolución continua y la mejora del sistema 'Abarrotes El Semillas', se han identificado varios requerimientos que se implementarán en el futuro. Estos requerimientos están diseñados para aumentar la funcionalidad del sistema, mejorar la experiencia del usuario y optimizar las operaciones de la tienda. A continuación se presenta el roadmap de implementación:
+  - Integracion con metodos de pagos digitales.
+  - integracion con proveedores.
+  - Mejorar la seguridad y autenticacion
+  - Crear un modulo que permita gestionar promociones. 
+
+
+
+
 
 
 
